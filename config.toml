@@ -1,0 +1,4 @@
+baseURL = "https://susunen.github.io/website-with-hugo/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-base16-theme"
